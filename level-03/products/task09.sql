@@ -1,0 +1,2 @@
+
+UPDATE products SET status = 'inactive' WHERE name ILIKE '%old%';

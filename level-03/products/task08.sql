@@ -1,0 +1,2 @@
+
+UPDATE products SET status = 'archived' WHERE status IN ('inactive', 'draft');

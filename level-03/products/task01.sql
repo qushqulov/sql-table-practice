@@ -1,0 +1,2 @@
+
+UPDATE products SET status = 'active' WHERE slug = 'iphone-15'; 
